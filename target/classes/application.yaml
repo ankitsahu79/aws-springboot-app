@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://tweetdb.cd0fbymfyjl3.us-west-2.rds.amazonaws.com/tweet
+    username: admin
+    password: yLTFAun3a9zmo0jEYn7N
+    driver-class-name: com.mysql.cj.jdbc.Driver
